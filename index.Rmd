@@ -1,0 +1,27 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+WHAT If add text
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+```{r}
+rnorm(10)
+```
+
+## link
+* [Google](https://google.com)
+* [P8105](https://p8105.com)
+ 
+
+##local image (pic in the local repository)
+![](image/) 
+
+## link to another page within the site
+[About Me](about.html)
